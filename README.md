@@ -1,0 +1,2 @@
+# exercice
+exercice for learning 
